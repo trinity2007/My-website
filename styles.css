@@ -1,71 +1,70 @@
-body {
-    font-family:Arial,San-Serif
-    color:F7B0E6;
-    background-color:B6D3F2;
-    margin:0;
-    padding:0;
-    line-height:2.0:
+head{
+ font-family: 'Times New Roman', Times, serif;
+ color:#F9D2F2;
+ background-color:#D2E9F9;
+ margin: 0;
+ padding: 0;
+ line-height:1.6;
 }
-    header{
-        background-color:D6C6F0;
-        color:l ilac;
-        padding:20 px;
-        text-allign: centre;
-
-    }
-
-headerh1 {
-    margin:1;
-} 
+header{
+    background-color:#D5D9F6;
+    color: #D5D9F6;
+    padding: 20 px;
+    text-align:left;
+}
+header h1{
+        margin:0;
+}
 nav a {
-    color:skyblue;
-    text-decoration:none;
-    margin : 0 10 px;
+ color: azure;
+ text-decoration: wavy;
+ margin: 0.10 px;
 }
-nav a: hover{
-text-decoration : underline;
+nav a:hover{
+    text-decoration: overline;
+}
+main{
+    padding: 20 px;
+    max-width: 800 px;
+    margin: 0 auto;
+}
+main img{
+    max-width: 100%;
+height: auto;
+display: contents;
+margin: 20 px 0;
+}
+ footer{
+    background-color: #D5D9F6;
+    color: #D5D9F6;
+    text-align: center;
+    padding: 10%;
+    position: fixed;
+    border: #F9D2F2;
+    bottom: 0;
+    width: 100%;
+ }
+p{
+    font-size: 1.6em;
+}
+a{
+    color: #0C0C69;
+    text-decoration: wavy;
+}
+a:hover{
+    text-decoration: dotted;
+    
 }
 
-main{ 
-padding:20 px;
-max-width:800 px ;
-margin: 0 auto ;
+img{
+    border: 3px solid slategrey;
+    border: radius 10px;
 }
-main img { 
-max-width :100% ; 
-    height:auto;
-    display: block ;
-    margin: 20 px 0 ;
+main a [href^="mailto:trinitymmolawa@gmail.com"]{
+color:#6B0A60;
+font-weight:bold;
 }
-footer{
-    background-color:F7B0E6;
-    color:babypink;
-    text-allign:centre;
-    padding:10 px;
-    position:fixed;
-    bottom:0;
-    width:100 %;
-}
-    p{
-        font-size :1.2em;
-    }
-    a{ 
-        color:B6D3F2;
-        text-decoration:none;
-    }
-        a:hover{ 
-            text-decoration:underline;
-        }
-    img{ 
-        border:5 px solid #4CAF50;
-        border radius: 10 px;
-    }
-    main a [href^="maitlo:"] {
-        color:F9D2F2
-        font-weight:bold;  
-    }
-    
-            
+     
     
     
     
