@@ -57,6 +57,14 @@ footer{
             text-decoration:underline;
         }
     img{ 
+        border:5 px solid #4CAF50;
+        border radius: 10 px;
+    }
+    main a [href^="maitlo:"] {
+        color:F9D2F2
+        font-weight:bold;  
+    }
+    
             
     
     
