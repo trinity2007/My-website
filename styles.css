@@ -1,5 +1,5 @@
 body{
-    background-image: url("footprint.avif");
+    background-image: url(footprint.avif);
     font-style: italic;
     font-size: large;
 }
@@ -9,14 +9,14 @@ box{
     padding: 20px;
     border: 20px solid transparent;
 
-    border-image: url("border.jpg") 30 round;
+    border-image: url(border.jpg) 30 round;
 }
 body{
     background-color: #B6FBF5;
    color:#453A0D;
    text-align: center;
    margin-top: 100px;
-    background-image: url("/c:\Users\USER\Downloads\WhatsApp Image 2026-05-20 at 8.50.52 PM.jpeg");
+    background-image: url(WhatsApp Image 2026-05-20 at 8.50.52 PM.jpeg);
 }
 h1{
     font-size: larger bold;
