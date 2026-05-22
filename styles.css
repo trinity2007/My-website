@@ -1,5 +1,5 @@
 body{
-    background-image: url("images/footprint.avif");
+    background-image: url("footprint.avif");
     font-style: italic;
     font-size: large;
 }
@@ -9,7 +9,7 @@ box{
     padding: 20px;
     border: 20px solid transparent;
 
-    border-image: url("images/border.jpg") 30 round;
+    border-image: url("border.jpg") 30 round;
 }
 body{
     background-color: #B6FBF5;
